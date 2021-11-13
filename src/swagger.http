@@ -1,0 +1,2 @@
+GET https://whataboutthis.westus.inference.ml.azure.com/swagger.json
+Authorization: Bearer XXX
