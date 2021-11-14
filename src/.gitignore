@@ -1,4 +1,0 @@
-# don't save csv files generated
-iris.csv*
-# don't save bearer tokens
-*.http
