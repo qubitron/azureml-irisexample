@@ -1,6 +1,6 @@
 $schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
 code: 
-  local_path: src
+  local_path: ../../src
 command: >-
   python main.py 
   --iris-csv ${{inputs.iris_csv}}

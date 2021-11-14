@@ -1,4 +1,4 @@
-POST https://whataboutthis.westus.inference.ml.azure.com/score
+POST https://iris-endpoint-cli.westus.inference.ml.azure.com/score
 Content-Type: application/json
 Authorization: Bearer XXX
 

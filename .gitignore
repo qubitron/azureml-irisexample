@@ -1,6 +1,11 @@
 # Repo specific
 mlruns
 model
+*.csv
+.config
+*.deb
+# don't save bearer tokens
+*.http
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

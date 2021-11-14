@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/dataset.schema.json
+name: iris-local-cli
+description: Dataset created from local iris.csv file.
+local_path: ../iris.csv
