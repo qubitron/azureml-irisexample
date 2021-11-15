@@ -1,6 +1,3 @@
-POST http://22e4ef93-f8aa-46e2-bc8a-053878780257.westus.azurecontainer.io/score
-Content-Type: application/json
-
 {"input_data": {
     "columns": [
       "sepal_length",
